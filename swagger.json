@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://your-app-name.onrender.com",
+      "url": "https://cse341workoutapi.onrender.com",
       "description": "Production server (Render)"
     },
     {
